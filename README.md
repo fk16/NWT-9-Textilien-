@@ -2,8 +2,8 @@
 
 # Kurztest: Kleidung und Textilien
 **Fach:** Naturwissenschaften und Technik (Klasse 9)
-**Name:** ________________________
-**Datum:** ________________________
+**Name:** ________________________  
+**Datum:** ________________________  
 
 ---
 
@@ -190,22 +190,37 @@ Warum werden in der **Automobilindustrie** oft **Synthetikfasern** für Sitzbez�
 ### **4. Nachhaltigkeit und Umwelt**
 16. Hoher Wasserverbrauch, chemische Belastung, Mikroplastik, Textilmüll
 17. Schnelle Produktion von günstiger Mode mit häufigen Kollektionswechseln
-18. Secondhand kaufen, Kleidung reparieren, nachhaltige Materialien, Waschen bei niedrigen Temperaturen
-19. Kreative Weiterverarbeitung von Altkleidern zu neuen Produkten
-20. Fairtrade-Siegel oder GOTS
+---
+## **Lösungen**
+*(Für Lehrkräfte – können separat ausgedruckt oder digital bereitgestellt werden)*
 
 ---
-### **5. Pflege und Alltagsbezug**
-21. Wolle kann einlaufen und Form verlieren
-22. Feines, pH-neutrales Waschmittel (ohne Bleichmittel)
-23. Waschen bei max. 30°C im Schonwaschgang
-24. Jeans können einlaufen und Farbe abgeben
-25. Wolle, Seide, Elasthan-haltige Kleidung, empfindliche Synthetik
+### **1. Materialien und Fasern**
+1. Baumwolle, Leinen, Wolle, Seide
+2. c) Baumwolle
+3. Naturfasern: pflanzlich (Baumwolle, Leinen) oder tierisch (Wolle, Seide). Chemiefasern: künstlich hergestellt (synthetisch: Polyester, Nylon; regeneriert: Viskose).
+4. c) Wasserabweisend
+5. Schnell trocknend, knitterarm, reißfest, formbeständig
 
 ---
-### **6. Technische Anwendungen**
-26. Geotextilien (Bodenstabilisierung), Medizintextilien (Verbände), Schutztextilien (Feuerwehrkleidung)
-27. Aramidfasern (z. B. Kevlar)
-28. Textilien mit elektronischen Funktionen, z. B. Heizkleidung oder Sensoren
-29. Wasserabweisend/dicht, atmungsaktiv, reißfest, UV-beständig
-30. Abriebfest, leicht zu reinigen, formbeständig, geringe Feuchtigkeitsaufnahme
+### **2. Herstellung und Verarbeitung**
+6. 1. Ernte, 2. Reinigung/Entkörnung, 3. Kämmen, 4. Verspinnen zu Garn, 5. Weben/Wirken zu Stoff
+7. Wiederverwertung von Altkleidern oder Textilresten zu neuen Produkten
+8. Spinnmaschine
+9. Leinwandbindung, Köperbindung, Atlasbindung
+10. **Weben:** Verkreuzung von Kette und Schuss (z. B. Jeans). **Wirken:** Maschenbildung durch Schlaufen (z. B. Pullover).
+
+---
+### **3. Eigenschaften von Textilien**
+11. Gute Wärmedämmung durch Luft einschließende Fasern
+12. Atmungsaktiv, feuchtigkeitsaufnehmend, kühlend
+13. Elasthan (z. B. Lycra)
+14. Polyester erhöht Reißfestigkeit und Knitterarmut, Baumwolle sorgt für Atmungsaktivität
+15. Glänzend, weich, reißfest
+
+---
+### **4. Nachhaltigkeit und Umwelt**
+16. Hoher Wasserverbrauch, chemische Belastung, Mikroplastik, Textilmüll
+17. Schnelle Produktion von günstiger Mode mit häufigen Kollektionswechseln
+
+---
